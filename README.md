@@ -42,7 +42,7 @@ if (error == null) {
 
 
 Reference link :
-1. https://docs.branch.io/pages/deep-linki ... app-links/
-2. https://medium.com/@ageitgey/everything ... 348b265b49
+1. https://docs.branch.io/pages/deep-linking/android-app-links/
+2. https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49
 
 
